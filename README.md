@@ -1,7 +1,7 @@
 
 # Projeto Integrador - Loja de Calçados HermeShoes
 
-Este projeto foi desenvolvido como atividade final do curso Técnico em Informática do IFSul de Minas, com foco no desenvolvimento de um website para a loja de calçados HermeShoes.
+Este projeto foi desenvolvido como atividade finaldo curso Técnico em Informática EAD do IFSul de Minas - campus Muzambinho, com foco no desenvolvimento de um website para a loja de calçados HermeShoes.
 
 ## O que foi solicitado:
 
