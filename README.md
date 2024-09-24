@@ -15,7 +15,7 @@ Este projeto foi desenvolvido como atividade finaldo curso Técnico em Informát
 - `index.php`: Página inicial, onde o usuário pode acessar as principais seções do site.
 - `botas.php`: Página com informações sobre botas disponíveis.
 - `cadastro.php`: Formulário HTML para coleta de informações dos usuários.
-- `calcula_frete.php`: Página para calcular o frete das compras.
+- `frete.php`: Página para calcular o frete das compras.
 - `dados_recebidos.php`: Página que recebe os dados enviados pelo formulário e armazena em um arquivo JSON.
 - `infantil.php`: Página dedicada a calçados infantis.
 - `lançamentos.php`: Página com as novidades da loja.
