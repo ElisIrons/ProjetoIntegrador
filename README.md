@@ -10,6 +10,12 @@ Este projeto foi desenvolvido como atividade finaldo curso Técnico em Informát
 - **Diagrama de Caso de Uso**: Utilização do Visual Paradigm Online para demonstrar as diferentes maneiras que o usuário pode interagir com o sistema. **(3,0 pontos)**
 - **Desenvolvimento do Website**: Implementação do site utilizando HTML, CSS e PHP através da IDE Visual Studio Code. **(3,0 pontos)**
 
+## Funcionalidades
+
+- Navegue pelas diferentes páginas para ver os produtos disponíveis na loja.
+- Preencha o formulário de cadastro.
+- Calcule o frete para suas compras.
+
 ## Estrutura do Projeto
 
 - `index.php`: Página inicial, onde o usuário pode acessar as principais seções do site.
@@ -82,10 +88,5 @@ Este projeto foi desenvolvido como atividade finaldo curso Técnico em Informát
    php testes/freteTest.php
    ```
 
-## Funcionalidades
-
-- Navegue pelas diferentes páginas para ver os produtos disponíveis na loja.
-- Preencha o formulário de cadastro.
-- Calcule o frete para suas compras.
 
 
