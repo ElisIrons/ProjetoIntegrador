@@ -21,7 +21,8 @@ Este projeto foi desenvolvido como atividade finaldo curso Técnico em Informát
 - `index.php`: Página inicial, onde o usuário pode acessar as principais seções do site.
 - `botas.php`: Página com informações sobre botas disponíveis.
 - `cadastro.php`: Formulário HTML para coleta de informações dos usuários.
-- `frete.php`: Página para calcular o frete das compras.
+- `frete.php`: Formulário para inserir o frete.
+  - `calcula_frete.php`: Script para calcular o frete.
 - `dados_recebidos.php`: Página que recebe os dados enviados pelo formulário e armazena em um arquivo JSON.
 - `infantil.php`: Página dedicada a calçados infantis.
 - `lançamentos.php`: Página com as novidades da loja.
@@ -35,6 +36,7 @@ Este projeto foi desenvolvido como atividade finaldo curso Técnico em Informát
 - `testes/`: Pasta contendo os testes automatizados usando Selenium WebDriver:
   - `botasTest.php`: Teste de acesso à página de botas.
   - `cadastroTest.php`: Teste de envio do formulário de cadastro.
+  - `freteTest.php`: Teste de cálculo do frete.
   - `indexTest.php`: Teste de acesso às principais seções do site.
 - `vendor/`: Pasta gerenciada pelo Composer.
 
