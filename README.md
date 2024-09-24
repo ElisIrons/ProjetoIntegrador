@@ -26,7 +26,7 @@ Este projeto foi desenvolvido como atividade finaldo curso Técnico em Informát
 - `script.js`: Arquivo JavaScript para funcionalidades adicionais.
 - `estilohermes.css`: Arquivo de estilos para o layout das páginas.
 - `imagens/`: Pasta com imagens utilizadas nas páginas.
-- `test/`: Pasta contendo os testes automatizados usando Selenium WebDriver:
+- `testes/`: Pasta contendo os testes automatizados usando Selenium WebDriver:
   - `botasTest.php`: Teste de acesso à página de botas.
   - `cadastroTest.php`: Teste de envio do formulário de cadastro.
   - `indexTest.php`: Teste de acesso às principais seções do site.
@@ -76,9 +76,9 @@ Este projeto foi desenvolvido como atividade finaldo curso Técnico em Informát
 6. **Executar Testes Automatizados**:
    Para rodar os testes do Selenium, execute os seguintes comandos na pasta de testes:
    ```bash
-   php test/indexTest.php
-   php test/botasTest.php
-   php test/cadastroTest.php
+   php testes/indexTest.php
+   php testes/botasTest.php
+   php testes/cadastroTest.php
    ```
 
 ## Funcionalidades
