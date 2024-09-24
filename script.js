@@ -4,6 +4,7 @@ document
     event.preventDefault();
 
     var cep = document.getElementById("cep").value;
+    console.log("CEP enviado:", cep);
 
     fetch("calcula_frete.php", {
       method: "POST",
@@ -12,10 +13,15 @@ document
       },
       body: "cep=" + encodeURIComponent(cep),
     })
-      .then((response) => response.json())
+      .then((response) => {
+        console.log("Status da resposta:", response.status);
+        return response.json();
+      })
       .then((data) => {
+        console.log("Dados recebidos:", data);
         document.getElementById("resultadoFrete").textContent =
           "Frete: R$ " + data.frete.toFixed(2);
+        console.log("Resultado atualizado no DOM");
       })
       .catch((error) => {
         console.error("Erro:", error);
