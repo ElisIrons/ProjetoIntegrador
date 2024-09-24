@@ -79,6 +79,7 @@ Este projeto foi desenvolvido como atividade finaldo curso Técnico em Informát
    php testes/indexTest.php
    php testes/botasTest.php
    php testes/cadastroTest.php
+   php testes/freteTest.php
    ```
 
 ## Funcionalidades
