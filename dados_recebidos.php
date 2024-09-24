@@ -8,7 +8,7 @@
 
         <div id='corpo'>
             <main>
-                <h1> Dados cadastrados</h1>
+                <h1>Dados cadastrados</h1>
                 
                 <?php
 
@@ -25,18 +25,12 @@
                     echo "Sexo: " . $sexo . "<br>";
                     echo "Estado: " . $estado . "<br>";
                     echo "CEP: " . $CEP . "<br>"
-            
                 ?>
-
-        <BR>
-        
+                <br>
                 <strong> Em breve você receberá um e-mail de confirmação de cadastro juntamente com o cupom de 50% de desconto para utilizar na sua primeira comprar!</strong>
 
             </main>
         </div> 
-
-
-
 
     </body>
 </html>
