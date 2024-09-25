@@ -22,7 +22,7 @@ Este projeto foi desenvolvido como atividade finaldo curso Técnico em Informát
 - `botas.php`: Página com informações sobre botas disponíveis.
 - `cadastro.php`: Formulário HTML para coleta de informações dos usuários.
 - `frete.php`: Formulário para inserir o frete.
-  - `calcula_frete.php`: Script para calcular o frete.
+- `calcula_frete.php`: Script para calcular o frete.
 - `dados_recebidos.php`: Página que recebe os dados enviados pelo formulário e armazena em um arquivo JSON.
 - `infantil.php`: Página dedicada a calçados infantis.
 - `lançamentos.php`: Página com as novidades da loja.
@@ -89,6 +89,11 @@ Este projeto foi desenvolvido como atividade finaldo curso Técnico em Informát
    php testes/cadastroTest.php
    php testes/freteTest.php
    ```
+
+
+
+
+https://github.com/user-attachments/assets/333cab14-cdfe-454d-89a7-282fffd184f4
 
 
 
